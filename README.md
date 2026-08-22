@@ -1,49 +1,49 @@
- # Hey, ich bin Alex! 👋
+# Hey, I'm Alex! 👋
 
-  Angehender Entwickler mit Leidenschaft für sauberen Code, smarte Lösungen und volle Beschleunigung.
+Aspiring developer with a passion for clean code, smart solutions and full throttle.
 
-  ---
+---
 
-  ## 👤 Über mich
+## 👤 About me
 
-  - 🎓 Aktuell in der Ausbildung bei der **Developer Akademie**
-  - 📚 Lerne die Grundlagen der Softwareentwicklung und baue mein Wissen Schritt für Schritt aus
-  - 💡 Ich mag es, wenn Technik das Leben einfacher macht — weniger Aufwand, mehr Wirkung
-  - 🏎️ Wenn ich nicht am Laptop sitze, bin ich wahrscheinlich auf der **Kartbahn** unterwegs
+- 🎓 Currently training at the **Developer Akademie**
+- 📚 Learning the foundations of software development and growing my knowledge step by step
+- 💡 I like it when technology makes life easier — less effort, more impact
+- 🏎️ When I'm not at the laptop I'm probably out on the **kart track**
 
-  ---
+---
 
-  ## 🛠️ Tech-Stack (in Entwicklung)
+## 🛠️ Tech stack (work in progress)
 
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-  ---
+---
 
-  ## 🎯 Interessen
+## 🎯 Interests
 
-  - 💻 **Code** — Probleme lösen, Dinge bauen, verstehen wie alles zusammenhängt
-  - 🏁 **Go-Kart** — Vollgas, Kurven, pure Geschwindigkeit
-  - ⚙️ **Smarte Lösungen** — Automatisierung, Effizienz, das Beste aus wenig machen
+- 💻 **Code** — solving problems, building things, understanding how it all fits together
+- 🏁 **Go-karting** — full throttle, corners, pure speed
+- ⚙️ **Smart solutions** — automation, efficiency, making the most out of little
 
-  ---
+---
 
-  ## 📖 Aktuell lerne ich
+## 📖 What I'm learning right now
 
-  - Die Grundlagen von **HTML, CSS & JavaScript**
-  - Wie man sauber mit **Git** arbeitet
-  - Wie man von einer Idee zu einem echten Projekt kommt
+- The basics of **HTML, CSS & JavaScript**
+- How to work cleanly with **Git**
+- How to get from an idea to a finished project
 
-  ---
+---
 
-  ## 📬 Kontakt
+## 📬 Get in touch
 
-  Gerne vernetzen — ich freue mich über Austausch mit anderen Lernenden und Entwicklern.
+Happy to connect — I enjoy exchanging ideas with other learners and developers.
 
-  ---
+---
 
-  > *"First, solve the problem. Then, write the code."* — John Johnson
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
-  ---
+---
